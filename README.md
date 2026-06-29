@@ -1,6 +1,6 @@
 # This is my end to end project
 # First initialize the git
-# Author- Shanta
+# Author- PrangyaaShanta
 git init
 ....
 
