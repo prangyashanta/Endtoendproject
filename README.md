@@ -1,5 +1,6 @@
 # This is my end to end project
 # First initialize the git
+# Author- Shanta
 git init
 ....
 
